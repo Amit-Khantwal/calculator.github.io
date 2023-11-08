@@ -74,8 +74,10 @@ button{
 }
 @media (orientation:portrait){
     button{
-       margin-bottom: 10px;
-        
+        height: 30px;
+        width: 30px;
+        font-size: 10px;
+        margin: 5px;
     }
 }
 .equalbtn{
