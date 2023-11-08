@@ -51,7 +51,7 @@ input{
 }
 @media (orientation:portrait){
     input{
-        width: 70%;
+        width: 50%;
 
     }
 }
